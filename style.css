@@ -1,0 +1,32 @@
+
+.header-section{
+    text-align: right;
+    background-image: url('images/banner/rsz_2banner1.png');
+    background-repeat: no-repeat;
+    padding: 250px 50px;
+}
+.header-section button{
+    padding: 10px 20px;
+    border-radius: 5px;
+    color: white;
+    background-color: orangered;
+    border: 0px;
+}
+.adjust{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.text-aligning{
+    text-align: center;
+}
+#possitive-mindset-section{
+    border-radius: 10px;
+    width: 80%;
+    padding: 40px 40px;
+    margin: 40px;
+    color: aliceblue;
+  background-image: url('images/gradient2.png'), linear-gradient(to right, orangered , white);;
+    justify-content: center;
+
+}
