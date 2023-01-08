@@ -27,6 +27,8 @@
     margin: 40px;
     color: black;
     justify-content: center;
+    background-image: url('images/gradient1.png');
+    background: linear-gradient(to right, #E75480, rgb(231, 228, 228));
 
     
 
@@ -37,10 +39,11 @@
     color: #153084;
     font-weight: 600;
 }
-.color-overlay{
-    background-image: url('images/gradient1.png');
-    background: linear-gradient(to right, #E75480, rgb(218, 197, 197));
+
+/* footer */
+footer{
+    color: whitesmoke;
+    background-color: black;
     width: 100%;
-    height: 100%;
-    opacity: .7;
+    padding: 20px 40px;
 }
