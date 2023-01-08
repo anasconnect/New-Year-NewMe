@@ -1,4 +1,7 @@
-
+body{
+    margin: 0%;
+    padding: 0%;
+}
 .header-section{
     text-align: right;
     background-image: url('images/banner/rsz_2banner1.png');
